@@ -34,4 +34,4 @@ pip install GitPython
 3. Run the script using the following command:
 
    ```bash
-   python script.py
+   python overview-king.py
